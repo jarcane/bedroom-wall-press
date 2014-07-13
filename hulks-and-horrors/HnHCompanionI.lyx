@@ -1,0 +1,6696 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman utopia
+\font_sans avant
+\font_typewriter cmtt
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc true
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize custom
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.5in
+\topmargin 1in
+\rightmargin 0.5in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\begin_inset Graphics
+	filename C:/Users/BearBear/Google Drive/Hulks and Horrors B&W Logo for Print.png
+	scale 50
+	rotateOrigin centerTop
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+
+\backslash
+[1cm]
+\end_layout
+
+\end_inset
+
+Companion I:
+\begin_inset Newline newline
+\end_inset
+
+ The Saurian War
+\end_layout
+
+\begin_layout Author
+By John S.
+ Berry III
+\end_layout
+
+\begin_layout Date
+© 2014 by John S.
+ Berry III and Bedroom Wall Press
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+The Saurian War
+\end_layout
+
+\begin_layout Standard
+The expansion of humankind into the galaxy was largely peaceful in the early
+ years.
+ With the Great Plague having wiped clear much of the sentient life in the
+ galaxy prior to humanity's emergence, the biggest threats to exploration
+ were only from the horrors left behind by the plague, or rogue elements
+ from human civilization in the form of claim-jumpers and pirates.
+ The few sapient races encountered generally proved friendly, either in
+ the midst of their own exploration phase themselves or simply eager for
+ new friends in a lonely and hostile universe.
+ The discovery of these new species gave new hope that the galaxy might
+ not be a complete void of other intelligent life despite the ravages of
+ the Plague, and new effort was expended especially towards seeking out
+ new civilizations.
+ 
+\end_layout
+
+\begin_layout Standard
+However, humanity and its new allies were soon to face their first great
+ challenger.
+ Someone else was hunting the stars, not for friends, but for humanity itself.
+ They were seeking Earth, and they meant to claim it for their own.
+\end_layout
+
+\begin_layout Section
+The Saurians
+\end_layout
+
+\begin_layout Standard
+Millions of years ago, on the eve of the asteroid impact that would trigger
+ the last great extinction event of Earth's prehistory, a desperate plan
+ was hatched.
+ 
+\emph on
+Arcanoraptor, 
+\emph default
+a young species of sapient theropods constructs a series of 
+\begin_inset Quotes eld
+\end_inset
+
+seed pods
+\begin_inset Quotes erd
+\end_inset
+
+ which will bear forth across the galaxy in an attempt to save their species
+ from extinction.
+ Unable to construct a large enough vessel with enough supplies for ongoing
+ life, instead the arcanoraptors store eggs from their best and brightest
+ in stasis, only to be hatched once they pod itself has landed on a planet
+ with suitable atmosphere.
+ On each pod is a plaque, engraved with information about the destinations
+ of each other pod of dozens launched, along with coordinates for Earth's
+ sun.
+\end_layout
+
+\begin_layout Standard
+Most of the pods do not survive, and even those that do take millions of
+ years to arrive at their destination.
+ While the pod and the eggs themselves provide just enough nutrients for
+ the hatching arcanoraptors to survive initially, only their own wits will
+ allow them to survive beyond this point.
+ Their civilization is lost, preserved only in the information inscribed
+ within the capsules, and the cataclysm that wiped out most life on earth
+ larger than small mammals and birds erased almost any trace of this lost
+ space-faring society.
+\end_layout
+
+\begin_layout Standard
+Hurtling through space at a speed barely faster than the earliest human
+ deep space probes, the pods survived the ravages of the Great Plague largely
+ through obscurity.
+ Most missed their marks, or were destroyed by other forces.
+ Some did survive, however.
+ 
+\end_layout
+
+\begin_layout Standard
+One pod thrived above all, and managed to rebuild a new civilization with
+ remarkable haste.
+ Landing on the second planet of a small yellow sun not unlike our own,
+ the newborn hatchlings found fertile soil, plentiful food, and a large
+ single continent not unlike the Pangaea they had left behind on Earth.
+ Eventually, one tribe would unite the scattered survivors, and thus the
+ Rax Empire was born.
+ 
+\end_layout
+
+\begin_layout Section
+The Hunt
+\end_layout
+
+\begin_layout Standard
+Its internal conflicts resolved, the Rax Empire set about looking inward
+ into their own forgotten history.
+ They re-discovered the lost seed pod that placed them on their world, and
+ this piece of their lost heritage came to be held with religious reverence.
+ Rax scholars would study the words and inscriptions of their lost ancestors
+\emph on
+ 
+\emph default
+for generations.
+ As their society grew and advanced to the space age they made it their
+ mission to unite the other survivors of Earth.
+ 
+\end_layout
+
+\begin_layout Standard
+This continual mission would come to be known as The Hunt, and would remain
+ the uniting drive for the species as it expanded into the rest of the galaxy
+ around Rax Prime.
+ The Hunt eventually re-united many of the lost surviving descendants of
+ the seed pods, and through this reunification the Great Rax Empire became
+ a galactic power to rival the expansion of humanity, making their eventual
+ contact that much more inevitable.
+\end_layout
+
+\begin_layout Section
+Contact
+\end_layout
+
+\begin_layout Standard
+It was a Surveyor team that first encountered the Rax.
+ A first-time crew with a fresh claim, the 
+\emph on
+GSS Mauve-Taupe
+\emph default
+ exited subspace just outside the Gamma Orionis system, directly in the
+ path of an oncoming Rax freight hauler.
+ After considerable confusion and panic on both sides, the two sides managed
+ to avoid conflict long enough for the 
+\emph on
+Mauve-Taupe
+\emph default
+'s science officer to translate the incoming terrified chatter from the
+ Rax ship and talk both sides down from a potentially embarrassing incident.
+ The 
+\emph on
+Mauve-Taupe 
+\emph default
+was then directed to Gamma Orionis IV, a small and rocky world hosting a
+ Rax mining colony, to introduce themselves to the local colonial administrator.
+\end_layout
+
+\begin_layout Standard
+Met with a warm welcome at first by the local authorities, the conversation
+ quickly turned sour when one of the 
+\emph on
+Mauve-Taupe
+\emph default
+'s crew, a human engineer, explained where he was from.
+ The administrator quickly made the connection between the human homeworld
+ and that spoken of in the ancient pod text, and grew more and more furious.
+ Taking disgusted offense at the very idea of a bunch of egg-eating, mammal-desc
+endants claiming residence of their holy ancestral grounds, he ordered the
+ lot arrested.
+ The crew of the 
+\emph on
+Mauve-Taupe
+\emph default
+ managed to escape capture only through use of a barely functioning teleport
+ bay and a slow reaction on the part of the Rax station's port authority.
+ 
+\end_layout
+
+\begin_layout Standard
+They reported only of a hostile exchange with an 
+\begin_inset Quotes eld
+\end_inset
+
+unknown saurian species
+\begin_inset Quotes erd
+\end_inset
+
+ (the science officer's translator failed to understand the term 'Rax' as
+ a name for the species, and they continue to be largely known as 'Saurians'
+ in Tradespeak).
+ The report simply advised avoiding that space until more formal diplomatic
+ ties could be established.
+ Thanks to this understated report and the inevitable bureaucratic delays
+ involved in Guild report processing, humanity was thus initially unaware
+ that it had just started an interstellar war.
+\end_layout
+
+\begin_layout Section
+War
+\end_layout
+
+\begin_layout Standard
+News of Earth's survival and habitability was quickly sent upwards to the
+ Holy Rax Emperor, who formally declared war on the human species and the
+ intent of the Rax Empire to reclaim its ancestral homeland.
+ Skirmishes and raids on outlying colonies began not long after, and soon
+ the known galaxy was embroiled in the largest conflict in human history.
+ 
+\end_layout
+
+\begin_layout Standard
+As the front roared on, humanity called on its friends and allies to bolster
+ their numbers against the highly organized and at times brutal Saurian
+ armada, even recruiting from among newly discovered pre-starfaring peoples
+ in exchange for membership in the growing Human Alliance.
+ The first androids also found their way into service across the fleets
+ of the Alliance, and the Surveyor's Guild became a vital part of the war
+ effort as well.
+ Exploration priority was placed on locating valuable raw materials and
+ new technology that could supply the front and provide an edge to the Alliance
+ in the ongoing conflict.
+\end_layout
+
+\begin_layout Section
+About This Book
+\end_layout
+
+\begin_layout Standard
+This book in the first of a planned line of companion volumes for 
+\emph on
+Hulks and Horrors
+\emph default
+, and as such will require the 
+\emph on
+H&H
+\emph default
+ core book to make the most complete use of.
+ Each companion volume provides an assortment of options for players and
+ GMs to bring into their games, from new classes, to alternate rules, to
+ additional adversaries and more.
+ This first volume focuses primarily on playing games of 
+\emph on
+H&H 
+\emph default
+centered around the job of a Surveyor during wartime, seeking to expand
+ player options and especially exploration results to suit.
+ The setting background of this book and those to follow exists largely
+ as a framing device for the gameplay tools within, and GMs are free to
+ ignore it in pursuit of their own campaign settings.
+ Later volumes will tackle further subjects, but the important takeaway
+ is that all of these rules are considered optional, and thus it is best
+ to discuss with your group which options will be in play.
+ Remember Rule Number One! 
+\end_layout
+
+\begin_layout Chapter
+Characters
+\end_layout
+
+\begin_layout Standard
+Exploration of a galaxy in a state of war is a different prospect than that
+ of one in relative peace-time.
+ While the threat of rogue elements has always been a part of a surveyor's
+ job, and the ruins of the ancients remain ever filled with hazards and
+ horrors galore, the realities of life during the Saurian War lead to new
+ faces and new skill sets finding their way into the ranks of the Guild.
+ The following chapter presents some new options for existing classes, as
+ well as new classes entirely, for player characters during and after the
+ Saurian War.
+\end_layout
+
+\begin_layout Section
+Improving Saves and Abilities
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Hulks and Horrors 
+\emph default
+classes are designed with the expectation that all characters are at least
+ minimally trained in the full range of expected abilities for a surveyor
+ or explorer.
+ The classes are thus designed more as chosen careers, and like in any job,
+ there can be good or bad examples of the field.
+ The more important consideration in design thus was making characters vary
+ widely, and allowing every character to try any action (this is also why
+ there are few 'exclusive' abilities in 
+\emph on
+H&H 
+\emph default
+classes).
+ Some gamers however may prefer more sharply defined classes that better
+ guarantee a stronger level of competence at the class’s particular talents.
+\end_layout
+
+\begin_layout Standard
+Optionally then, you may consider allowing class abilities and saves to
+ improve with level.
+ This will allow distinction between classes to improve as each class becomes
+ more experienced at its own particular set of skills.
+ Under this rule, class abilities that provide a +1 to specific stat checks
+ (including saves), now improve by a further +1 at levels 3 and 6.
+\end_layout
+
+\begin_layout Section
+Combat Pilots
+\end_layout
+
+\begin_layout Standard
+With the outbreak of the Saurian War, more and more pilots are cutting their
+ teeth in the field of battle rather than threading through the debris fields
+ of Dyson Prime.
+ Pilots trained in the combat forces who find themselves no longer qualified
+ for duty, unable to cope with the stress of the battlefield, or simply
+ too free-spirited for military service often turn to Guild work instead
+ as surveyors.
+ Such combat-trained pilots are increasingly in demand as well, as skirmishes
+ between Alliance and Saurian forces in unexplored sectors continue.
+ Each side in the war is eager to hunt down new resources and new technologies
+ to bring to the front, and this means ship-to-ship combat is an expected
+ hazard in the uncharted reaches.
+\end_layout
+
+\begin_layout Standard
+Pilots wishing to take a more combat-oriented specialty can optionally exchange
+ their 
+\emph on
+Daredevil 
+\emph default
+ability for a new talent, 
+\emph on
+Combat Pilot
+\emph default
+.
+ This replaces the pilot class’s knack for barnstorming heroics, for skill
+ at keeping their ship a difficult target to track in a fight.
+ The details of this new ability are as follows:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\emph on
+Combat
+\begin_inset space ~
+\end_inset
+
+Ace:
+\series default
+\emph default
+ The combat pilot is an expert at dodging and maneuvering a ship through
+ heavy enemy fire, able to thread their vessel through the fray with precision
+ unrivaled.
+ When called upon to make any piloting roll in combat, the combat pilot
+ may choose to roll 2D20, and keep the highest result.
+ If they succeed, the maneuver is successful as usual but the ship gains
+ a further -1AC until the next round.
+ If they fail, however, they have lost control of the ship, and no maneuvering
+ rolls can be attempted until control is regained, leaving the ship at +2AC
+ until a DEX check is passed (combat ace cannot be used on this check.)
+\end_layout
+
+\begin_layout Section
+Soldier MOS
+\end_layout
+
+\begin_layout Standard
+Prior to the Saurian War, few soldiers saw combat with any regularity.
+ Most tended to remain in the service as career soldiers in sleepy garrisons
+ or administrative desks, or muster out into civilian careers.
+ Those veterans who were willing to volunteer for a surveyor crew tended
+ to be from special operations and quarantine units, who had seen combat
+ against plague horrors and worse, and thus were relatively more willing
+ to sign on for the dangerous life of an explorer and hulk hunter.
+\end_layout
+
+\begin_layout Standard
+Since the War however, a greater variety of former military personnel have
+ found themselves out of military work, having been injured, declared unfit,
+ or even deserted.
+ There is thus a greater variety in the specialties of those soldiers finding
+ work on surveyor teams.
+ As well, those groups wishing to run military campaigns focused directly
+ on the action of the war, may wish to be able to portray the broader range
+ of talents possible within the soldier class.
+\end_layout
+
+\begin_layout Standard
+In order to better portray this diversity, soldiers may choose to exchange
+ the 
+\begin_inset Quotes eld
+\end_inset
+
+Covert Ops
+\begin_inset Quotes erd
+\end_inset
+
+ ability of the class for one of the following Military Occupational Specialties
+ (or MOS).
+\end_layout
+
+\begin_layout Description
+Armored This soldier was employed in the armored division, operating land
+ vehicles from transports to tanks.
+ the character has a +1 to stat checks involving the operation of land vehicles.
+\end_layout
+
+\begin_layout Description
+Exo-Armor The soldier was a member of an exo-armor unit, trained in the
+ operation of powered armor suits.
+ The character has a +1 to-hit with hardpoint mounted weapons, and may purchase
+ a basic exo-armor (AC1) for half price at character creation.
+\end_layout
+
+\begin_layout Description
+Gunnery The soldier served as an artillery officer, tank gunner, or other
+ heavy gun operator.
+ They have a +1 to-hit with mounted weapons and artillery.
+\end_layout
+
+\begin_layout Description
+Infantry The character was a basic ground-pounder, marching through the
+ fields of some god-awful rock.
+ They've developed considerable stamina for forced marches, gaining a +1
+ to CON for saves against fatigue when travelling on foot.
+\end_layout
+
+\begin_layout Description
+Logistics Not the most exciting career in the armed forces, but a vital
+ one, the soldier served as part of the logistical or supply division.
+ A life of navigating military bureacracy for supplies has made them a shrewd
+ bargainer: they pay 10% less for equipment purchases at character creation,
+ and they have a +1 to CHA for any negotiations involving trade transactions.
+\end_layout
+
+\begin_layout Description
+Marine The soldier is a true space marine, a front-line hardened invader
+ and shipboard combat expert.
+ Marines count zero gravity as a favored environment, and their gung-ho
+ attitude gives them a +1 to DEX for the purpose of initiative.
+\end_layout
+
+\begin_layout Description
+Marksman The soldier is a designated marksman or sniper, trained in expert
+ accuracy at considerable distance.
+ The soldier has a +1 to-hit with rifles, and may attack targets up to 300
+ yards distant.
+\end_layout
+
+\begin_layout Description
+Mechanic The soldier worked in the 
+\begin_inset Quotes eld
+\end_inset
+
+motor pool
+\begin_inset Quotes erd
+\end_inset
+
+ repairing vehicles.
+ They have a +1 to INT for the purposes of repairing land and air vehicles.
+\end_layout
+
+\begin_layout Description
+Recon The character served in a recon or patrol unit, requiring them to
+ travel quickly through unknown or difficult terrain and provide accurate
+ information about enemy positions.
+ The soldier and their group suffer half the usual penalties when traversing
+ difficult terrain, and the recon soldier gains a -1 to AC while in such
+ terrain.
+\end_layout
+
+\begin_layout Description
+Survival Further deep recon units and even individual scouts are sometimes
+ deployed.
+ The soldier has recieved extensive training on surviving with limited equipment
+ in hostile terrain, and gain a +1 to WIS checks to locate food and water
+ in the surrounding area.
+ On a successful check and with 1d4 hours' time, the soldier finds sufficient
+ food and water for themselves to survive another day.
+ 
+\end_layout
+
+\begin_layout Section
+The Engineer
+\end_layout
+
+\begin_layout Standard
+Part technical wizard and part handyman, engineers are masters of maintenance,
+ experts at engines, and triumphant troubleshooters.
+ Engineers are absolutely indispensable to keeping a good ship running,
+ and just as handy planet-side when it comes time to quickly repair broken
+ equipment, puzzle out some piece of alien tech, or just keep everyone's
+ guns and other implements of destruction fully functioning at their peak
+ efficiency.
+ A good engineer should have a high INT, the better to perform their repairs,
+ and usually possesses a pretty high DEX as well, and often decent STR,
+ both handy attributes to have on the job, as both dexterity and even raw
+ strength come in handy in the line of work for a ship's engineer.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Level
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Melee To-Hit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Ranged To-Hit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Hit Dice
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Rank
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trainee
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Apprentice
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Handyman
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Engineer
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Chief Engineer
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Scottie
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Engineer
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Hit
+\begin_inset space ~
+\end_inset
+
+Die: d8 
+\end_layout
+
+\begin_layout Description
+Saving
+\begin_inset space ~
+\end_inset
+
+Throws: +1 to DEX 
+\end_layout
+
+\begin_layout Description
+Stat
+\begin_inset space ~
+\end_inset
+
+Requirement: INT 7+ 
+\end_layout
+
+\begin_layout Description
+Weapons: Pistol, Shotgun, Rifle, Dagger 
+\end_layout
+
+\begin_layout Description
+Armor: Light, Medium 
+\end_layout
+
+\begin_layout Description
+Favored
+\begin_inset space ~
+\end_inset
+
+Environment: Oxygen, Zero-to-Medium Gravity
+\end_layout
+
+\begin_layout Subsection
+Special Abilities 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Gimme
+\series default
+ 
+\series bold
+More
+\series default
+ 
+\series bold
+Power
+\series default
+: The engineer's role on the ship is to keep it working, and also to regulate
+ the flow of power to vital systems.
+ While the engines will generally give enough juice to keep things running
+ unless they've been damaged, sometimes a little extra juice can charge
+ a system enough to give it an edge in a fight.
+ Each round of ship combat, the engineer can declare they are transferring
+ power to one and only one of the ship's systems, with varying results depending
+ on the system (listed below).
+ They make an INT check, and on a success, the system gains the described
+ bonus, but on a roll of 20, the system is overloaded, and takes the opposite
+ effect until emergency repairs can be applied to the affected system.
+ They may attempt to further boost a powered up system a second time and
+ double the bonus, however this time the system will overload on a simple
+ failure, and the penalty for failure is similarly doubled.
+ Only one system can be boosted on any given round, and boosting another
+ system cancels the effect of the previous boost.
+\end_layout
+
+\begin_layout Standard
+Power may also be transferred to overcome damage to certain systems, temporarily
+, but at greater risk of overload and further damage.
+ A damaged system can be restored to normal function for as long as the
+ boost remains in place, but overloads on a simple failure of the INT check
+ needed to transfer the power, and becomes disabled instead.
+\end_layout
+
+\begin_layout Standard
+The effect of boosting the individual systems is listed below:
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Weapons
+\emph default
+: Power is channeled to the weapons systems, boosting damage of beam weapons
+ or mass drivers by +2.
+ Missile damage cannot be boosted, but CPU cycles can be boosted to give
+ its targeting system a +1 to-hit.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Main Engines
+\emph default
+: Reserves are pushed into the engine for an extra boost of speed, giving
+ a +2 to DEX checks to Approach, Withdraw, or Flee, or +2 hexes/inches of
+ movement if using miniatures.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Thrusters
+\emph default
+: The maneuver thrusters are supercharged, making the ship more deft.
+ -1 to AC, and +1 to DEX checks for Defensive Maneuvers 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Sensors
+\emph default
+: The engineer boosts the clock on the CPU that handles target processing,
+ giving a +2 bonus to WIS for the purposes of sensor lock.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Shields
+\emph default
+: The engineer jams power into the shield emitters, giving -1 to AC, and
+ boosting shield recharge by +2 Kills per round while the boost is active.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Engineering
+\emph default
+: Power is diverted to the repair subsystems themselves, giving the engineer
+ and their crew extra help in holding the ship together.
+ +2 to INT checks for emergency repairs.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Jury-Rig
+\series default
+: Sometimes you just don't have time to give something a proper repair,
+ but you need it to work right this damn minute.
+ That's when a good engineer shines: knowing how to coax a machine into
+ working for now, at the cost of more careful repairs later.
+ By making a successful INT check, the engineer can make any damaged or
+ even broken machine or system work for the next 1d6 rounds per level, at
+ the cost of an extra 10 minutes per round rolled of repair time needed
+ later.
+ This jury-rigging can be continued, however there is a cumulative -1 INT
+ penalty to the check for every attempt beyond the first, and on a failure
+ the device is permanently broken and will not be repairable in the field
+ at all.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Tinker
+\series default
+:
+\emph on
+ 
+\emph default
+Engineers almost always carry the right tool for the job, but if they don't
+ have it, they make it.
+ By spending at least 1d6 hours cobbling together available parts, the engineer
+ can create a device that will give +2 to the INT or WIS check for solving
+ a particular technical problem.
+ The engineer requires access to said spare parts, and they must be able
+ to explain what the device is and how it helps.
+ (This can be simple technobabble or real science; be creative!) The device
+ so constructed will cease to function after it has completed the task for
+ which it was designed.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Weaponsmith
+\series default
+: The engineer's talent for tinkering extends to their gift for weapon maintenan
+ce.
+ They gain a +1 to INT when repairing any weapon, and for a cost of 100
+ credits per die of damage dealt by a weapon, they can improve the weapon
+ by +1 damage or +1 ammo capacity permanently.
+ This improvement can only be performed once on a given weapon.
+\end_layout
+
+\begin_layout Section
+The Llorrai
+\end_layout
+
+\begin_layout Standard
+21 Lockhart IV is a rather unassuming name for what would prove to be one
+ of the bloodiest battlefields of the entire Saurian War.
+ A humid quagmire of jungles and swamps punctuated by wide rivers and open
+ fields of 2-meter tall grasses, the planet was also ripe with rare earth
+ metals vital for construction of new fusion drives and energy weapons,
+ and smack in the middle of a major space lane for both Alliance and Saurian
+ forces.
+ Sent into the planet's harsh jungles to attempt to oust the Saurian colony,
+ Alliance ground troops dubbed the world by another name: Paradise.
+\end_layout
+
+\begin_layout Standard
+Caught in the midst of this endless fighting were the Llorrai (singular:
+ 
+\emph on
+Llorra
+\emph default
+, lit.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+standing man
+\begin_inset Quotes erd
+\end_inset
+
+), the indigenous capyfolk people of Paradise.
+ A mix of agrarian and hunter-gatherer tribes, the Llorrai were only barely
+ on the cusp of civilization when the Saurian Empire settled on the planet.
+ The occupying Saurian forces quickly set the capyfolk beneath their scaly
+ heel, taking over farms and enslaving laborers for mining and manufacturing
+ work.
+ Unrest grew, and soon many Llorrai took up arms, stealing weapons and taking
+ advantage of their experience with the local terrain to stymie Saurian
+ troops.
+ By the time the Alliance invaded, Paradise was already on the verge of
+ a full civil war, and the human forces initially found the Llorrai guerillas
+ to be as much trouble as the Saurians.
+ Alliance troops would seize Saurian outposts only to find themselves under
+ attack from behind the lines by Llorrai jungle fighters they'd simply never
+ seen.
+ Soldiers on both sides of the conflict told ghost stories about the Llorrai
+ 
+\emph on
+tsiella 
+\emph default
+(
+\begin_inset Quotes eld
+\end_inset
+
+silence
+\begin_inset Quotes erd
+\end_inset
+
+)
+\emph on
+, 
+\emph default
+said to be native hunters who could seemingly vanish in an open field.
+\end_layout
+
+\begin_layout Standard
+Eventually, however, the Alliance would secure an alliance with the Llorrai,
+ offering safe asylum for refugees and full support for an independent Llorrai
+ state in exchange for first trading rights to Paradise's rare mineral reserves.
+ Through this treaty, the Llorrai became a valuable ally in the ongoing
+ battle, and Llorrai hunters even found their way into service elsewhere
+ in the Alliance military and even the Surveyor's Guild.
+\end_layout
+
+\begin_layout Standard
+In appearance, the Llorrai resemble many other capyfolk species found across
+ the galaxy.
+ Bearing a squarish head with long muzzle, prominent incisors, thick fur,
+ and slightly-webbed hands and feet, the stocky 4-foot capyfolk do indeed
+ strongly resemble their Earth rodent counterpart.
+ They are naturally quick on their feet, excellent swimmers, and Llorrai
+ hunters are masters of stealth and wilderness survival.
+ Unlike their Earth counterpart, the Llorrai have adapted to an omnivorous
+ diet and a knack for scavenging more similar to that of rats, allowing
+ them to survive easily off whatever the wilderness might offer.
+\end_layout
+
+\begin_layout Standard
+Their language, Llorran, is chirpy and flowing, rich on vowels and trilled
+ or dental consonants (
+\emph on
+ll, rr, t, 
+\emph default
+and 
+\emph on
+d)
+\emph default
+ and affricates (such as 
+\emph on
+ts 
+\emph default
+and
+\emph on
+ dz
+\emph default
+), though some of these are not produced in the same manner as similar human
+ sounds.
+ Llorran can thus be a bit tricky for some new human speakers (the trilled
+ 
+\emph on
+ll
+\emph default
+ is especially difficult), but not impossible, and conversely, the Llorrai's
+ split upper lip leaves them to have trouble with lip-based sounds like
+ 
+\emph on
+m,
+\emph default
+ 
+\emph on
+p 
+\emph default
+and 
+\emph on
+b.
+\end_layout
+
+\begin_layout Standard
+Llorrai finding themselves in the service of a Guild crew will most likely
+ be veterans of Paradise's jungles, with high DEX scores due to their gift
+ for stealth, and will usually possess a high CON as well, owing to their
+ natural constitution for wild places.
+ In peacetime the Llorrai are a highly social people as well, and often
+ have notable CHA scores to reflect their gift of gab.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Level
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Melee To-Hit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Ranged To-Hit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Hit Dice
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Rank
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Farmer
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Forager
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trapper
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Hunter
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Stalker
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6d8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Tsiella
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Llorrai
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Hit
+\begin_inset space ~
+\end_inset
+
+Die: d8 
+\end_layout
+
+\begin_layout Description
+Saving
+\begin_inset space ~
+\end_inset
+
+Throws: +1 to CON 
+\end_layout
+
+\begin_layout Description
+Stat
+\begin_inset space ~
+\end_inset
+
+Requirement: DEX 7+, CON 7+, STR < 16
+\end_layout
+
+\begin_layout Description
+Weapons: Daggers, Swords, Pistols, Rifles
+\end_layout
+
+\begin_layout Description
+Armor: Light, Medium 
+\end_layout
+
+\begin_layout Description
+Favored
+\begin_inset space ~
+\end_inset
+
+Environment: Oxygen, Medium Gravity
+\end_layout
+
+\begin_layout Subsection
+Special Abilities
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\emph on
+Tsiella
+\series default
+\emph default
+: Alliance soldiers still tell war stories about the 
+\emph on
+tsiella,
+\emph default
+ supposed Llorrai guerillas who could disappear like ghosts in the tall
+ grass or the thick jungles of Paradise.
+ In truth, the name comes from a misunderstanding.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+silence
+\begin_inset Quotes erd
+\end_inset
+
+ is not a type of warrior, it is a principle, taught to all young hunters
+ and ingrained in the Llorrai instinct as former prey species.
+ Through a combination of misdirection, deception, and years of practice
+ maintaining absolute stillness, the Llorrai can evade sight and slip silently
+ into cover by fooling their pursuer's sense of their direction.
+ Llorrai gain +1 to DEX for the purposes of all stealth actions, and provided
+ there is sufficient natural cover, a Llorrai can make a DEX check to hide
+ even if in line of sight of an enemy.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Survivalist
+\series default
+\emph on
+:
+\emph default
+ Llorrai are relatively new to settled, agrarian life.
+ Many Llorrai who are not themselves from hunter-gatherer tribes are only
+ a few generations removed from that life, and they are natural experts
+ at foraging and hunting for food, able to survive in the wilds more or
+ less indefinitely.
+ Much of this talent relates to their nose, which is a superb natural detector
+ of toxins.
+ On a successful WIS check a Llorra can instantly detect whether a potential
+ foodstuff is safe for them to eat, and given 1d6 hours to forage in an
+ environment with sufficient flora and fauna, they can provide food enough
+ for themselves and 1d6 party members.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+River
+\series default
+ 
+\series bold
+Dweller
+\series default
+: Llorrai are not truly amphibious, but they have an instinctual love for
+ water, and are natural-born swimmers.
+ They may hold their breath for 5 minutes before requiring checks for the
+ lack of oxygen, and have a +1 to DEX for the purposes of underwater movement.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Trapper
+\series default
+: Llorrai hunters are gifted trap-makers, able to assemble traps from available
+ materials almost anywhere.
+ Originally this skill was of course most useful for hunting wild animals
+ and even dealing with dangerous predators (it is said that those who truly
+ mastered the 
+\emph on
+tsiella 
+\emph default
+would even use themselves as bait for the trap), but during the war their
+ cleverness at quick trap-making proved just as useful against enemy personnel.
+ Soldiers in the jungles of Paradise used to say that the worst sound you
+ could hear was the simple snap of a twig, because you never knew if it
+ was a simple fallen branch, or the harbinger of an ironwood spike through
+ a major artery.
+ Llorrai jungle fighters were known to take down entire platoons without
+ ever being seen, and as modern technology was introduced, they adjusted
+ as well.
+\end_layout
+
+\begin_layout Standard
+Experienced Llorrai are thus able to quickly assemble improvised traps from
+ available materials in the wild, or even in civilized environs, provided
+ they have enough time.
+ Given ten minutes time, the Llorra can assemble and place a trap sufficient
+ to immobilize a target who triggers it for 1d6 rounds unless they make
+ a DEX save.
+ In twenty minutes time, and with no distractions, the Llorra can construct
+ a trap capable of causing lethal injury or poison to the victim.
+ Damaging traps deal 1d6 damage, plus an additional 1d6 at levels 3 and
+ 6.
+ A DEX save avoids the trap.
+ Poisonous traps act as a disease that targets the stat of the Llorra's
+ choice, is delivered by blood on contact with the trap, and has a virulence
+ equal to the Llorra's level minus 1.
+ The usual CON save against the poison applies.
+\end_layout
+
+\begin_layout Standard
+Given half an hour, and access to chemicals, a Llorra can construct an improvise
+d explosive device.
+ This deals the same damage as the previous damaging trap, but deals it
+ to all targets within 30 feet of the trigger.
+ Bystanders can make a DEX save for half damage, but the creature or person
+ triggering the trap takes full damage with no save.
+ Alternately, the charge can be shapped to damage vehicles, dealing double
+ the usual damage to a single target vehicle, but the weight required for
+ the trigger means it will not activate against personnel.
+\end_layout
+
+\begin_layout Standard
+Regardless of the type of trap involved, Llorrai traps are especially tricky
+ to spot.
+ There is a -1 penalty to WIS checks to spot the trap, and a further -1
+ to DEX saves against the trap.
+ 
+\end_layout
+
+\begin_layout Section
+The Clan-Lords of Krii
+\end_layout
+
+\begin_layout Standard
+The fifth and outermost planet orbiting the star known to human cartographers
+ as Kepler-62 (
+\emph on
+Krii-öii
+\emph default
+ in the native tongue), Kree is the capital world of an interplanetary hegemony
+ that quickly became a diplomatic chessboard for the Alliance and Saurian
+ powers during the War.
+ The Krii themselves are a spacefaring pre-FTL arthropoid species believed
+ to be descended from a lobster-like ancestor in relatively recent geological
+ history, as the planet's surface is abundant with relatively primitive
+ plant life similar to early Earth's, suggesting a delayed transition to
+ life-bearing state.
+ Their appearance sometimes leads to the application of the erroneous epithet
+ 'lobstermen,' but Krii are true crustacean descendants rather than simply
+ a common form of plague mutation, and they are considerably more formidable
+ combatants than their afflicted false cousins.
+ 
+\end_layout
+
+\begin_layout Standard
+Each Krii stands approximately 6-8 feet in height, and their bodies are
+ of a roughly centaur-like arrangement.
+ Their 
+\begin_inset Quotes eld
+\end_inset
+
+heads
+\begin_inset Quotes erd
+\end_inset
+
+ are a squat mound atop a stout thorax which are composed of a single section
+ of chitinous carapace, to which is joined a segmented tail section.
+ The thorax bears two forelimbs for arms, four at its base in a quadropedal
+ arrangement for mobility, and two more vestigial 
+\begin_inset Quotes eld
+\end_inset
+
+banner limbs
+\begin_inset Quotes erd
+\end_inset
+
+ at the back.
+ The head mound contains two independent eyestalks, antennae that perform
+ a range of sensory functions including audio, the mouth, and an additional
+ pair of mandibles of considerable flexibility.
+ The forelimbs are similar to crustacean claws, but the inside grip of the
+ claw has developed more complex manipulator structures that allow it considerab
+ly more dexterity than a simple pincer.
+ 
+\end_layout
+
+\begin_layout Standard
+The back limbs are no longer articulated, and instead stand sharply up at
+ the shoulders with a slight curve, and display a prominent patterned membrane
+ rather like a banner.
+ The pattern on this banner is partly genetic, passed down matrilineally,
+ and partly affected by the conditions of its birthing pool.
+ A Krii's 
+\begin_inset Quotes eld
+\end_inset
+
+banner limbs
+\begin_inset Quotes erd
+\end_inset
+
+ are thus an important cultural display as well, marking their clan of origin
+ plainly to all in sight.
+ 
+\end_layout
+
+\begin_layout Standard
+The Krii language (
+\emph on
+Krii§ee
+\emph default
+) is based on a sophisticated symphony of guttural clicks, stops, and modulated
+ pitches, and their writing system is ideographic rather than alphabetic.
+ Human orthography of Kree speech uses the consonants 
+\emph on
+j, t, k, r, l, s, n, ch 
+\emph default
+and 
+\emph on
+ng, 
+\emph default
+with doubled forms indicating repeated sounds, as well as 
+\emph on
+! 
+\emph default
+(click)
+\emph on
+, - 
+\emph default
+(swallowed stop)
+\emph on
+, '
+\emph default
+ (full pause) and 
+\emph on
+§ 
+\emph default
+(hiss).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Vowels
+\begin_inset Quotes erd
+\end_inset
+
+ are tonal screeches, romanized with 
+\emph on
+ö
+\emph default
+ for low, to 
+\emph on
+i
+\emph default
+ for mid, and 
+\emph on
+e
+\emph default
+ for high, with multiple letters indicating length.
+ These are all approximations, lacking key subtleties like the role of mandibula
+r gesture, but a direct pronunciation is usually sufficient enough to be
+ crudely understood.
+ True replication of Krii speech is very difficult for mammalian vocal cords,
+ though the hovering squid can do a reasonable imitation without resorting
+ to artificial assistance.
+\end_layout
+
+\begin_layout Standard
+Despite their origins, adult Krii are no longer aquatic and have fully adapted
+ to life on the surface, but spawn must first hatch within a body of water
+ to survive until they undergo metamorphosis into juvenile form.
+ This difficult reality, combined with the familial identifier in the banner
+ limbs, has much to do with the nature of Krii society.
+ Much of the current feudal structure has its origins in birthing rights
+ and access to safe spawning grounds for Krii young.
+\end_layout
+
+\begin_layout Standard
+Krii society is essentially a feudal clan system.
+ Each clan is ostensibly an extended family unit, ruled by a Clan-Lord who
+ serves as the head of the household, and the Clan-Mother who is the primary
+ bearer of eggs and thus vital to the continuation of the clan identity
+ and banner.
+ Male offspring pledge to their clan as bannermen, and fight for the Clan-Lord
+ to earn the right to court and mate with the Clan-Mother herself or with
+ one of 
+\begin_inset Quotes eld
+\end_inset
+
+The Mother's Swords,
+\begin_inset Quotes erd
+\end_inset
+
+ female clan members who have pledged themselves as the Clan-Mother's personal
+ guard.
+ Even conscripts of the peasantry can earn the right to take oaths as bannermen
+ or one of the Mother's Swords if they should manage to demonstrate exceptional
+ loyalty, honor, or bravery in the field of battle.
+ 
+\end_layout
+
+\begin_layout Standard
+Above the Clan-Lords sits the Judge-Emperor of Krii, the high lord of the
+ Krii Hegemony, from whose imperial authority are granted the hereditary
+ lands of each clan.
+ The Judge-Emperor is the nominal regent of the entire Krii expanse, and
+ thus has the authority to both grand land-holding rights, and revoke them
+ as well.
+ The importance of resolving dispute of breeding pools is said to be the
+ origin of the office, as the First Judge-Emperor sought to unite the clans
+ under a single law of heraldry and heredity.
+ The Judge-Emperor is the highest court in Krii society, as well as it's
+ primary legislator, though in the modern Krii system there are checks to
+ this power.
+ New imperial edicts can be challenged by majority vote of the Clan-Lords,
+ and a 2/3rds majority may even depose the sitting regent in favor of the
+ senior heir to the throne.
+ As arbiter of feudal justice between clans, it is also the Judge-Emperor's
+ duty and authority to approve warfare between clans.
+ Civil conflict cannot be mounted without just cause and permission from
+ the regent, and unauthorized hostility can be grounds for revocation of
+ clan holdings and unilateral military intervention from the other clans.
+ Court politics have thus evolved into an incredibly elaborate system of
+ etiquette, as one false slight or mistep can potentially be used as grounds
+ to sue for war by the injured party.
+ 
+\end_layout
+
+\begin_layout Standard
+It is through these court politics that the cause of Alliance and Saurian
+ diplomatic relations soon became a quagmire.
+ The Judge-Emperor cannot issue an edict on foreign policy without an approving
+ vote from the Clan-Lords, who remained sharply divided on which force to
+ side with in the war, without any clear majority opinion.
+ A formal resolution of neutral party status was conferred instead, and
+ passed without objection from the Clan-Lords, and both Alliance and Saurian
+ powers were allowed to establish diplomatic and trade ties with the Krii
+ Hegemony.
+ Both sides continued to attempt to win enough favor with the individual
+ clans to push for an official treaty, and on two separate occasions diplomatic
+ scandals led to the Judge-Emperor ejecting foreign diplomats from the capital.
+ 
+\end_layout
+
+\begin_layout Standard
+The opening of the borders however, created a new opportunity for young
+ bannermen and swordswomen of the clans.
+ Clan tradition holds that to prove one's final worth as a warrior of the
+ clan or recover from a public disgrace of honor, the warrior must spend
+ at least three 
+\emph on
+röee
+\emph default
+ (
+\begin_inset Quotes eld
+\end_inset
+
+molts
+\begin_inset Quotes erd
+\end_inset
+
+) as a 
+\emph on
+tt!een-g, 
+\emph default
+a term often translated as 
+\emph on
+'ronin' 
+\emph default
+in Tradespeak, after the Japanese term.
+ Unlike the original 
+\emph on
+ronin
+\emph default
+ however, the tt!een-g is seen as a noble quest of passage, one that has
+ in times past ultimately driven exploration and cultural relations among
+ the scattered clans of Krii's early history or the moons and planets of
+ Krii-öii.
+ Today, many Krii ronin instead choose to go abroad to Alliance or Saurian
+ space and serve as surveyors, soldiers, and explorers, a task for which
+ they have proven exceptionally well equipped.
+\end_layout
+
+\begin_layout Standard
+Successful Krii surveyors will generally have a high STR owing to their
+ expert swordsmanship, and their excellent senses tend to result in high
+ WIS scores as well.
+ CHA however is often low, owing to their difficulty mastering the language
+ rather than any particular lack of social prowess.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Level
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Melee To-Hit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Ranged To-Hit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Hit Dice
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Rank
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1st 
+\emph on
+Röee
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2nd 
+\emph on
+Röee
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3rd 
+\emph on
+Röee
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+K'ii 
+\emph default
+(
+\begin_inset Quotes eld
+\end_inset
+
+proven
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+S'iie 
+\emph default
+(
+\begin_inset Quotes eld
+\end_inset
+
+sworn
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+J'iiö 
+\emph default
+(
+\begin_inset Quotes eld
+\end_inset
+
+chosen
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Krii
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Hit
+\begin_inset space ~
+\end_inset
+
+Die: d10 
+\end_layout
+
+\begin_layout Description
+Saving
+\begin_inset space ~
+\end_inset
+
+Throws: +1 to CON 
+\end_layout
+
+\begin_layout Description
+Stat
+\begin_inset space ~
+\end_inset
+
+Requirement: STR 7+, WIS 7+, CHA < 16
+\end_layout
+
+\begin_layout Description
+Weapons: Daggers, Swords
+\end_layout
+
+\begin_layout Description
+Armor: Light, Medium 
+\end_layout
+
+\begin_layout Description
+Favored
+\begin_inset space ~
+\end_inset
+
+Environment: Nitrogen, Oxygen, Low Gravity
+\end_layout
+
+\begin_layout Subsection
+Special Abilities
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Sword Master
+\series default
+: Krii warriors follow the way of the sword, 
+\emph on
+eet' öei, 
+\emph default
+almost from birth.
+ Even the lowest rank bannerman can prove a valiant and expert foe with
+ a blade in their hand, whether in a duel or on the open field of battle.
+ All Krii have a +1 to strike with swords.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Snapping Strike
+\series default
+: Like their ocean-dwelling ancestors, the Krii are capable of striking
+ with their forelimbs with incredible speed and strength, and modern Krii
+ have adapted that instinct to their use of the sword.
+ A Krii can draw and strike with a sword in the same round of combat, and
+ the first such move in a combat can even preempt an incoming attacker's
+ action, dealing an extra +1d6 of damage +1 per level.
+ The fast twitch muscles that allow this motion tire quickly, however, and
+ the element of surprise is lost after the first blow, so the technique
+ can be used only once per fight.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Pincer Claws
+\series default
+: While the Krii's pincers have evolved to contain a considerably greater
+ degree of fine dexterity, the outer shell layer is nonetheless still a
+ formidable weapon.
+ The Krii may strike with its pincers for 1d6 damage, +1 per level, and
+ this strike can be made as a snapping strike (see above).
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Omnidirectional Senses
+\series default
+: Krii eye stalks are flexible, and the eyes themselves form a dome shape
+ at the end of each stalk that allows them a wide viewing angle.
+ As well, their antennae are incredibly sensitive, able to detect vibrations
+ and sounds far too subtle for humans to even detect.
+ These keen senses make them intimately aware of their surroundings on a
+ level above other mammals, and they gain a +1 to WIS for surprise checks
+ or when detecting the presence of beings concealed by stealth or even active
+ camouflage.
+\end_layout
+
+\begin_layout Section
+Armor Hardpoints
+\end_layout
+
+\begin_layout Standard
+Hardpoints are a unique feature of powered armors, developed during the
+ war to add additional firepower to exo-armor units in the field.
+ Hardpoints, much like the hard-points on a ship, allow the mounting of
+ weapons to the armor, as well as the mounting of a few other useful bits
+ of equipment common in the field.
+ 
+\end_layout
+
+\begin_layout Standard
+Up to four hardpoints can be installed on any exo-armor or exo-jet suit,
+ at a cost of 2,000cr.
+ each.
+ Each hardpoint can be either a shoulder mount, or an arm mount, and only
+ two of each is allowed.
+ Only one item of equipment can be installed on each, and they are not field-swa
+ppable, due to the adjustments and calibrations involved.
+ 
+\end_layout
+
+\begin_layout Subsection
+Ranged Weapons
+\end_layout
+
+\begin_layout Standard
+Any ranged weapon may be mounted onto a hardpoint, and must be purchased
+ seperately.
+ Heavy weapons must be installed on shoulder mounts.
+ The mounting will hold up to three magazines of ammunition for the weapon,
+ which will be reloaded automatically by the hardpoint system.
+ The weight of the weapon is supported by the frame of the exo-armor, and
+ thus does not count against the carry limit of the pilot.
+\end_layout
+
+\begin_layout Standard
+A weapon mounted on a hardpoint can be fired in two modes: manual, and assisted.
+ In manual mode, the armor pilot takes direct control of the weapon, taking
+ an action to fire with their normal attack bonus.
+ On assisted mode, the hardpoint system's targeting takes over and fires
+ independently of direct control at a flat +1 to-hit as an additional attack.
+ Only one assisted mode attack can be made in a combat round, and only shoulder
+ mounted weapons can be fired in assisted mode.
+\end_layout
+
+\begin_layout Subsection
+Other Mountings
+\end_layout
+
+\begin_layout Standard
+The following short list includes a few other common items available to
+ equip on exo-armor hardpoints.
+ Indicated in italics after the name of the item will be either 
+\begin_inset Quotes eld
+\end_inset
+
+Shoulder
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Arm,
+\begin_inset Quotes erd
+\end_inset
+
+ indicating which type of mount the item must be installed on.
+ Each item is costed individually.
+ 
+\end_layout
+
+\begin_layout Description
+Comms
+\begin_inset space ~
+\end_inset
+
+Network 
+\emph on
+Shoulder.
+ 
+\emph default
+A complex pack of antennas and tranceivers that can access most any radio
+ or cellular communications system.
+ Useful for staying in contact with other units or orbital command.
+ 200cr.
+\end_layout
+
+\begin_layout Description
+Energy
+\begin_inset space ~
+\end_inset
+
+Shield 
+\emph on
+Arm
+\emph default
+.
+ Arm-mounted unit creates a energy shield, giving -1 AC while still leaving
+ the hand free.
+ Lasts 2 hours before needing 8 hours to recharge via the armor's internal
+ batteries.
+ 300cr.
+\end_layout
+
+\begin_layout Description
+Optic
+\begin_inset space ~
+\end_inset
+
+Camo 
+\emph on
+Shoulder
+\emph default
+.
+ Optical projection system attempts to match the appearance of the armor
+ to that of its surrounding environment, giving it a +1 to DEX checks to
+ stealth, and to Surprise checks.
+ 1,000cr.
+ 
+\end_layout
+
+\begin_layout Description
+Plasma
+\begin_inset space ~
+\end_inset
+
+Blade 
+\emph on
+Arm
+\emph default
+.
+ A triggerable energy blade allows ready access to melee attack capabilities
+ without tying up a hand.
+ Deals 2d12H damage, and lasts 2 hours before needing 8 hours to recharge
+ via the armor's internal batteries.
+ 500cr.
+\end_layout
+
+\begin_layout Description
+Sensor
+\begin_inset space ~
+\end_inset
+
+Pack 
+\emph on
+Shoulder
+\emph default
+.
+ Sensor system offers basic ground radar, GPS, and other useful functions.
+ Grants +1 to WIS for Surprise checks and other sensory rolls.
+ 1,000cr.
+\end_layout
+
+\begin_layout Description
+Targeting
+\begin_inset space ~
+\end_inset
+
+System 
+\emph on
+Shoulder
+\emph default
+.
+ Additional targeting sensors enhance the function of the hardpoint system's
+ assisted mode, adding an additional +1 to-hit when making an assisted mode
+ attack.
+ 1,000cr.
+\end_layout
+
+\begin_layout Chapter
+Robots
+\end_layout
+
+\begin_layout Standard
+As the war dragged on, shortages in trained manpower became an issue across
+ the Alliance, leading to a sudden interest in intelligent robots.
+ While simple 'dumb' robots were widely in use by most of the Alliance species,
+ full artificial intelligence was another matter.
+ The Treaty of Durandal IV prohibited the use of disembodied human-comparable
+ artificial intelligences among all signatory species after a series of
+ particularly disastrous incidents involving AI, one of which nearly started
+ an interstellar war, and another of which wiped out an entire research
+ colony by flooding it with hallucinogenic gas after the AI became bored.
+ Apparently, giving a digital entity with more intelligence than an entire
+ physics department nearly limitless computational capacity and a complete
+ lack of physical interaction or limitation has an unavoidable tendency
+ to result in their breaking out into megalomania and genocidal rage.
+\end_layout
+
+\begin_layout Section
+S.T.E.V.E.
+\end_layout
+
+\begin_layout Standard
+Fortunately for the Canis Majoris Cybernetics Corporation, however, this
+ left a loophole.
+ An AI system could be developed so long as it was contained solely within
+ a physical body with sufficiently limited processing capacity.
+ So, following on the initial success of their previous animal-analogue
+ products like M.U.L.E.
+ and H.O.R.S.E., CMCC began developing the Synthetic Technoid for Engineering,
+ Violence, and Exploration, or 'S.T.E.V.E.'
+\end_layout
+
+\begin_layout Standard
+S.T.E.V.E.'s design is heavily informed by the limitations of the Treaty.
+ In addition to possessing a simpler electronic brain that limits it to
+ roughly the same range of intelligence as a human save for some computational
+ tasks, S.T.E.V.E.
+ was a landmark development in non-deterministic AI.
+ Every S.T.E.V.E.
+ is designed to develop independently and randomly from the moment of it's
+ virtual birth, and as a result, none is ever quite the same as another.
+ This fundamental incompatibility makes it nearly impossible for more than
+ one S.T.E.V.E.
+ to ever share resources or combine programming, thus preventing any further
+ Durandal IV-level incidents.
+\end_layout
+
+\begin_layout Standard
+The flipside of this of course is that the process has certain ...
+ quirks.
+ Perhaps owing to the narcissistic personality of the original project manager
+ (the name 'S.T.E.V.E.' is actually a backronym for his name), or to flaws in
+ the fractal formula that generates the AI code, S.T.E.V.E.
+ displays certain trends in its behavioral development.
+ While every unit is different and they are more than competent employees,
+ S.T.E.V.E.s have a reputation for being particularly obstinate, sarcastic, and
+ surly.
+ One can always count on S.T.E.V.E.
+ to do what it's told, but it is significantly more to ask to expect it
+ to necessarily be happy about it, and rarely will it do so without a smart
+ remark.
+ 
+\end_layout
+
+\begin_layout Standard
+Rather than being a liability, however, this 'feature' helped to humanize
+ S.T.E.V.E.
+ to its fellow crew members, and proved especially popular with military
+ and surveyor crews.
+ S.T.E.V.E.'s willfulness was occasionally frustrating, but its sense of humor
+ proved popular with the fatalistic attitudes of people who regularly risk
+ being devoured by giant space worms or atomized in spacial anomalies.
+ While later development produced models with more agreeable personalities,
+ S.T.E.V.E.
+ remains popular with surveyors despite, or perhaps even because of, these
+ quirks.
+\end_layout
+
+\begin_layout Standard
+In contrast to S.T.E.V.E.'s colorful personality, the robot's appearance could
+ not be more workmanlike.
+ Built on a simple humanoid frame with outer metallic shell, the S.T.E.V.E.
+ unit is manufactured from recycled aerospace materials to minimize both
+ cost and weight.
+ The standard shell is left as unpainted rust-proof brushed metal, and to
+ save further money on complicated and expensive servo motors, the head
+ foregoes an articulated facial structure for a simple LED matrix display
+ that animates its facial expressions.
+ Other than the serial number and bar code stamped on the upper right chest
+ and along the upper arms, it can be difficult to tell one S.T.E.V.E.
+ from another, and this confusion is only amplified by the tendency of handlers
+ to not bother changing it from its default name.
+ This has been known to create routine confusion when someone makes the
+ mistake of calling for 'Steve' on spaceport PA systems.
+\end_layout
+
+\begin_layout Standard
+Despite the economical construction, however, S.T.E.V.E.
+ is a durable and versatile companion for a surveyor.
+ As robotic lifeform, it functions efficiently and safely in nearly all
+ environments without need for filter masks, rebreathers, or additional
+ air supply.
+ The armored shell is designed to withstand extremes of both heat and cold
+ without significant loss in function, as well as withstand significant
+ physical stress and damage without loss of function.
+ The adaptive AI and built-in redundancies further help keep the robot in
+ top function as much as is possible.
+ Its fuel consumption needs are both minimal and flexible, requiring only
+ a small daily weight of natural or synthetic hydrocarbons to provide a
+ catalyst for its power cells.
+ The base AI seed for each S.T.E.V.E.
+ unit is preconfigured with a primer on the basics of combat, starship maintenan
+ce, and space exploration, though individual aptitudes in some fields will
+ vary based on how the AI develops.
+ An adaptive machine interface port allows the robot to directly connect
+ to and communicate with computerized machinery, and a multi-purpose plasma
+ tool allows for defense, cutting, welding, and soldering.
+ The result is an indespensible assistant and companion for any surveyor
+ crew or military unit.
+\end_layout
+
+\begin_layout Subsection
+Stats
+\end_layout
+
+\begin_layout Standard
+Due to their standardized manufacturing, S.T.E.V.E.s do not generate their stats
+ in the same manner as normal PCs.
+ Variance in capability is minimal within standard manufacturing tolerances,
+ but the non-deterministic AI means there can be notable differences in
+ personality (CHA).
+ Rather than rolling 3d6 across the board as is customary, S.T.E.V.E.s thus generate
+ their standard stats from the following standard array, rolling only for
+ CHA: 
+\end_layout
+
+\begin_layout Quotation
+STR 14, INT 12, WIS 10, DEX 11, CON 15, CHA 3d6
+\end_layout
+
+\begin_layout Standard
+S.T.E.V.E.s still may gain new stat points as they level, however, simulating
+ the AI's learning process and software or hardware upgrades added over
+ time.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Level
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Melee To-Hit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Ranged To-Hit
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Hit Dice
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Version #
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1d10*
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.2
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6d10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2.2
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+S.T.E.V.E.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Hit
+\begin_inset space ~
+\end_inset
+
+Die: d10*
+\end_layout
+
+\begin_layout Description
+Saving
+\begin_inset space ~
+\end_inset
+
+Throws: +1 to CON 
+\end_layout
+
+\begin_layout Description
+Stat
+\begin_inset space ~
+\end_inset
+
+Requirement: N/A
+\end_layout
+
+\begin_layout Description
+Weapons: Pistols, Rifles, Shotguns, Heavy Weapons
+\end_layout
+
+\begin_layout Description
+Armor: None 
+\end_layout
+
+\begin_layout Description
+Favored
+\begin_inset space ~
+\end_inset
+
+Environment: All
+\end_layout
+
+\begin_layout Standard
+* 
+\emph on
+S.T.E.V.E.s always begin play with the maximum value of their first Hit Die +
+ CON Bonus.
+ Hit Die after 1st level are rolled normally.
+\end_layout
+
+\begin_layout Subsection
+Special Abilities
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Armored Shell
+\series default
+: The external shell of the robot is designed to recieve considerable punishment
+ without resultant damage to it's internals.
+ All S.T.E.V.E.s have AC5 by default and ignore the first 2 points of any damage
+ taken, but cannot equip other armor.
+ In addition, their shell protects them from extremes of temperature from
+ -200 to +600 degrees F.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Robotic Metabolism
+\series default
+: As a robot, S.T.E.V.E.
+ has no need to breathe and thus is impervious to the effects of atmosphere,
+ but it does need to 'eat', in a manner of speaking.
+ S.T.E.V.E.
+ units must consume at least 1 pound of organic or synthetic hydrocarbons
+ per week in order to fuel their interal power systems.
+ This can be oil, petroleum, alcohol, meat or vegetable matter, or even
+ coal.
+ Failure to fuel the robot will force it to rely on reserve power, incurring
+ a -1 penalty to all stats and to-hit values for the next week.
+ After two weeks without fuel, the robot will shut down until it can be
+ refueled.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Adaptive Interface
+\series default
+: One of the robot's fingers contains a retractable tip that serves as a
+ universal adapter for most electronic or computerized machinery and systems.
+ This enables S.T.E.V.E.
+ to communicate directly with a given computer or machine, giving it a +1
+ to checks involving such systems, and a +1 to-hit with guided or ship-mounted
+ weapon systems.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+Plasma Tool
+\series default
+: Concealed within the right arm of the robot is a multi-purpose plasma
+ tool capable of cutting, soldering and welding.
+ In welding mode, the tool grants the robot a +1 to ship repair rolls, and
+ in combat can be used to repair 1d3 Hull or 1d4 Armor.
+ In soldering mode, the tool grants a +1 to repairing or rewiring electronics.
+ In cutting mode, the tool can be used as a melee weapon that deals 2d10H
+ damage, and can cut through metal and other materials given sufficient
+ time (see 
+\emph on
+cutting torch, 
+\emph default
+H&H p.32).
+ The plasma tool has a limited battery separate from the main power system
+ of the robot, however, which holds 8 charges.
+ Each use of the tool uses 1 charge, and the battery will only recharge
+ after 8 hours without use.
+\end_layout
+
+\begin_layout Section
+The Robot Boom
+\end_layout
+
+\begin_layout Standard
+Of course, while S.T.E.V.E.
+ was one of the first and still most popular intelligent robots in service
+ across the galaxy, since its release there has been an sizeable boom in
+ the market.
+ The success of CMCC's new android lead to a wave of other robotics and
+ cybernetics manufacturers rushing their own intelligent robots to market,
+ with widely varying results.
+ While S.T.E.V.E.
+ remains one of the most ubiquitous models in Alliance space, there is now
+ a wide range of robots in all shapes, sizes, and colors in active employ
+ on surveyor ships.
+\end_layout
+
+\begin_layout Standard
+The following steps are designed to allow you to generate a unique robot
+ character of your own, walking you through the process of generating the
+ basic details of the robot's construction and capabilities, as well as
+ its stats.
+ Unlike the fairly standardized nature of making a S.T.E.V.E., this represents
+ a far more random option, owing to the wild spectrum of robotic life now
+ working throughout known space.
+\end_layout
+
+\begin_layout Subsection
+Stats
+\end_layout
+
+\begin_layout Standard
+Like PCs, robots generate their stats by rolling 3d6 in order for each of
+ the six stats.
+ There is no stat requirement for robots: instead, some of the systems options
+ may provide further adjustments to these values, so determining any derived
+ values may be best left until after the full details of the robot have
+ been generated.
+\end_layout
+
+\begin_layout Subsection
+Frame
+\end_layout
+
+\begin_layout Standard
+The robot's frame is the base structure on which the rest of its systems
+ are mounted, informing its body type, weight, size, and Hit Dice, and may
+ provide some additional adjustments to the robot's base stats as well.
+ The following categories represent the most common types of frame, and
+ are generated by rolling 2d6 on 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:Frame"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2d6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Name
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Hit Die
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Stats
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2-3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Compact
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+D4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2 DEX, -1 CON
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+4-5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Service
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+D6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1 DEX
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+6-8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Multi-Role
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+D8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1 INT
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+9-10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Heavy Utility
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+D10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1 STR
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+11-12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dreadnought
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+D12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2 STR, -1 DEX
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Frame
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Frame"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Compact This robot has been constructed with light weight as its primary
+ interest, and may actually be quite diminutive in size as well, eschewing
+ a humanoid frame for smaller shapes closer in size to that of a small to
+ medium sized dog.
+ Most 'robot pets' are ultralight, and small utility drones in workmanlike
+ shapes from cubes to discs to dustbins are also common for the class.
+\end_layout
+
+\begin_layout Description
+Service Service robots are those designed primarily for background roles
+ as maintenance, customer service, diplomatic, or clerical work, and are
+ usually humanoid in shape and appearance.
+ Their light weight however does make them tuneable for agility, and this
+ also makes service frames a popular choice for adapting into inflitration
+ or stealth oriented combat robots.
+ 
+\end_layout
+
+\begin_layout Description
+Multi-Role Multi-role frames are the workhorses of the robot world, sturdy
+ and durable enough to work in a wide range of conditions, but still light
+ enough to avoid hampered mobility or practicality.
+ Also usually humanoid in shape, they are generally equipped with less specializ
+ed and more adaptable AI software to match, to ensure maximum utility in
+ a wide range of roles.
+ 
+\end_layout
+
+\begin_layout Description
+Heavy
+\begin_inset space ~
+\end_inset
+
+Utility Heavy utility robots are industrial powerhouses, the diesel truck
+ of robotics.
+ Generally applied to industrial or construction tasks, they are more likely
+ to resemble machinery than standard humanoid frames, and HU-class combat
+ robots tend to be built for armament rather than maneuverability.
+ 
+\end_layout
+
+\begin_layout Description
+Dreadnought The titans of cybernetics, dreadnought 'bots are built like
+ tanks, made for maximum durability and lifting power.
+ In the civilian world, they are likely to be automated construction or
+ industrial machinery with names like 
+\begin_inset Quotes eld
+\end_inset
+
+Crushinator,
+\begin_inset Quotes erd
+\end_inset
+
+ and in the world of combat drones, walking tanks and 
+\begin_inset Quotes eld
+\end_inset
+
+deathbots.
+\begin_inset Quotes erd
+\end_inset
+
+ They are not to be trifled with.
+\end_layout
+
+\begin_layout Subsection
+Shell
+\end_layout
+
+\begin_layout Standard
+The shell of a robot is its outer casing, the body mounted to the frame,
+ providing protection to the robot's internals from damage.
+ Such frames vary widely in construction, from humanoid analogue 
+\begin_inset Quotes eld
+\end_inset
+
+skins
+\begin_inset Quotes erd
+\end_inset
+
+ to exo-grade armored shells capable of resisting significant combat fire.
+ To find the shell of your robot, roll 2d6 on 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:Shell"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2d6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Grade
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+AC
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Stats
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2-3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Skin
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1 DEX, +1 CHA
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+4-5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Commercial
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+None
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+6-8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Industrial
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1 CON
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+9-10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Military
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1 CON.
+ -1 DEX
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+11-12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Exo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2 CON, -2 DEX
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Shell
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Shell"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset Quotes eld
+\end_inset
+
+Skin
+\begin_inset Quotes erd
+\end_inset
+
+ These shells are designed less for protection and durability than for appearanc
+e and verisimilitude.
+ Skins offer little physical protection, but can be made from human or alien
+ analogue materials that create for a more believable appearance for android-typ
+e models.
+ Skins may also be employed for the weight advantage, particularly for combat
+ units specializing in stealth.
+ Skinned robots may wear regular armor (all types), which offers certain
+ advantages in utility and maintenance.
+\end_layout
+
+\begin_layout Description
+Commercial A basic commercial-grade shell, offering basic protection against
+ wear-and-tear and minor knocks and dings.
+ The robot ignores the first point of any damage recieved.
+\end_layout
+
+\begin_layout Description
+Industrial Industrial quality alloy shells provide the kind of durability
+ normally reserved for heavy equipment.
+ The shell provides protection against extreme environments and temperatures
+ from -200 to +600 degrees F, and ignores the first 2 points of damage taken.
+\end_layout
+
+\begin_layout Description
+Military This shell is rated as full combat grade, able to withstand significant
+ small arms fire and keep on ticking.
+ The armor is also shielded against EMP attack, and ignores the first 3
+ points of damage taken from any source.
+\end_layout
+
+\begin_layout Description
+Exo This shell is designed to go toe-to-toe with exo-armors, a top-grade
+ hardened shell able to wade through a withering amount of weapons fire
+ in combat scenarios.
+ The shell is fully environment protected, can withstand temperatures from
+ -200 to +600 degrees F, and ignores the first 4 points of damage taken.
+\end_layout
+
+\begin_layout Subsection
+Motility and Limbs
+\end_layout
+
+\begin_layout Standard
+By default, unless otherwise indicated by special features (see 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "sub:Special-Features"
+
+\end_inset
+
+), all robots are assumed to possess roughly humanoid or animal-like legs
+ which provide the usual movement rate.
+ In addition, they are assumed to possess grasping arms of some variety
+ that allow for normal dexterity.
+\end_layout
+
+\begin_layout Subsection
+Combat Software
+\end_layout
+
+\begin_layout Standard
+Most robots in the service of a surveyor crew will be equipped with at least
+ some basic combat subroutines and protocols, in order to defend both themselves
+ and their crew in case of hostile action.
+ Melee and ranged combat capability will each be rated separately, from
+ Basic to Expert, indicating their base to-hit as shown on 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:Robot-To-Hit-Ratings"
+
+\end_inset
+
+.
+ The robot's combat software will also inform what weapons they are proficient
+ with.
+ Roll 2d6 on 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:Combat-Software"
+
+\end_inset
+
+ to determine the robot's installed combat software.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Level
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Basic
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Advanced
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Expert
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++4
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
++6
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Robot To-Hit Ratings
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Robot-To-Hit-Ratings"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2d6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Type
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Melee
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Ranged
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Weapons
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2-3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Self-Defense
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Basic
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Basic
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dagger, Pistol
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+4-5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Close-Combat
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Expert
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Advanced
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+All Melee, Shotgun
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+6-8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Infantry
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Advanced
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Advanced
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Pistol, Rifle, Shotgun
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+9-10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Marksman
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Advanced
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Expert
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+All Ranged, Dagger
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+11-12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Elite Combat
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Expert
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Expert
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+All
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Combat Software
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Combat-Software"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Saving Throw
+\end_layout
+
+\begin_layout Standard
+All robots have a +1 CON saving throw, owing to their unique durability
+ as mechanical lifeforms.
+ In addition, as they possess electronic rather than biological brains,
+ they are immune to attacks or effects that call for a WIS save.
+ Psyker powers that do not cause physical, non-biological effect also cannot
+ function on the robot.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Special-Features"
+
+\end_inset
+
+Special Features
+\end_layout
+
+\begin_layout Standard
+In addition to these effects, the robot will also possess a number of special
+ features, generally designed to fulfill specific functions or provide unique
+ capabilities to make it more useful in the field.
+ Each robot possesses three such features, rolled via d100 on 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:Special-Features"
+
+\end_inset
+
+.
+ Re-roll any duplicate results.
+ The descriptions to follow will explain the effect of such features.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="20" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\emph on
+d100
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\emph on
+Special Feature
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\emph on
+d100
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+\emph on
+Special Feature
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+01-02
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Active Camo 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+51-52
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Language & Protocol
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+03-05
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Adaptive Interface 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+53-55
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Med-Kit
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+06-07
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+All-Band Radio
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+56-57
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Motion Tracker
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+08-10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Animal Handler
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+58-60
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Multi-Tool
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+11-13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Anti-Grav Lifts
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+61-63
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Navigation System
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+14-15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Bend-Arms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+64-65
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Onboard SGU
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+16-18
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Bio-Brain
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+66-68
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Org-Analyzer
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+19-21
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Bloodhound
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+69-71
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Oxygen Field
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+22-23
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Cutting Torch
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+72-73
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Personal Amplifier
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+24-26
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Detachable Limbs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+74-76
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Portable Chemist
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+27-28
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+EMP Burst
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+77-78
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Projectile Fist
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+29-31
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Extra Arms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+79-81
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Pry-Jaws
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+32-34
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Fusion Battery
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+82-84
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Salad Shooter
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+35-36
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Gecko Pads
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+85-86
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Self-Destruct
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+37-39
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Gun Arm
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+87-89
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Spider Legs
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+40-42
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Hand Blades
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+90-92
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Tracked
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+43-44
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Hardened Software
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+93-94
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Universal Lockpick
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+45-47
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Hardpoints
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+95-97
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Vise Grips
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+48-50
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Heavy Lifter
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+98-00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Wheeled
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Special Features
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Special-Features"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Active
+\begin_inset space ~
+\end_inset
+
+Camo The shell of the robot is coated in an active display that matches
+ itself to its surroundings automatically, giving the robot a +1 to DEX
+ for the purposes of any Stealth rolls and a +1 to WIS on surprise checks.
+ 
+\end_layout
+
+\begin_layout Description
+Adaptive
+\begin_inset space ~
+\end_inset
+
+Interface A universal computer interface adapter secreted somewhere on the
+ robot allows for instant access to almost any computer or other computer-automa
+ted machinery, giving a +1 to INT checks involving them.
+\end_layout
+
+\begin_layout Description
+All-Band
+\begin_inset space ~
+\end_inset
+
+Radio An internal package of radio and other wireless frequency antennas
+ and recievers allows the robot to access personal radio, cellular, internet,
+ or even ship-to-surface bands; allowing for easy and instant communication
+ while planetside.
+\end_layout
+
+\begin_layout Description
+Animal
+\begin_inset space ~
+\end_inset
+
+Handler The robot is programmed with special training for the handling of
+ animals, giving it a +1 to INT checks to identify animal behavior, and
+ a further +1 to CHA checks when interacting with animal intelligences.
+ The robot may even attempt to tame Docile creatures, by making two consecutive
+ CHA checks.
+\end_layout
+
+\begin_layout Description
+Anti-Grav
+\begin_inset space ~
+\end_inset
+
+Lifts Rather than ordinary physical limbs to provide motility, the robot
+ has a set of anti-gravity hover lifts which bear it aloft.
+ Under normal operation the robot hovers approximantly 1.5 to 2 feet above
+ the ground, but may elevate in short bursts to essentially 
+\begin_inset Quotes eld
+\end_inset
+
+jump
+\begin_inset Quotes erd
+\end_inset
+
+ up to 10 feet vertically.
+ It may easily hover across water or other non-solid surfaces, and it is
+ not slowed by difficult terrain.
+\end_layout
+
+\begin_layout Description
+Bend-Arms The robot forgoes normal jointed limbs for flexible, telescopic
+ appendages.
+ Each arm can extend up to 10 feet independently, and owing to their inherent
+ flexibility and dexterity, the robot has a +1 to DEX and a +1 to melee
+ to-hit.
+\end_layout
+
+\begin_layout Description
+Bio-Brain An incredibly controversial and in some jurisdictions illegal
+ 
+\begin_inset Quotes eld
+\end_inset
+
+feature,
+\begin_inset Quotes erd
+\end_inset
+
+ this robot's brain is partially or fully biomechanical, essentially becoming
+ more of a vat-grown cyborg than a purely electronic lifeform.
+ This allows the robot to employ limited psychic abilities (use the Bearman
+ power progression, 
+\emph on
+H&H 
+\emph default
+p.20), but also makes the robot fully susceptible to psychic and mental attacks.
+\end_layout
+
+\begin_layout Description
+Bloodhound An advanced chemical sniffer installed in the robot's sensory
+ apparatus allows it to instantly detect the atmospheric composition of
+ a room, detect toxic substances, and even identify trace chemical trails
+ left by living organisms.
+ They have a +1 to WIS checks involving smell, and on a successful WIS check,
+ the robot can track such trails to their source provided they are no more
+ than a week old.
+\end_layout
+
+\begin_layout Description
+Cutting
+\begin_inset space ~
+\end_inset
+
+Torch 
+\end_layout
+
+\begin_layout Description
+Detachable
+\begin_inset space ~
+\end_inset
+
+Limbs 
+\end_layout
+
+\begin_layout Description
+EMP
+\begin_inset space ~
+\end_inset
+
+Burst 
+\end_layout
+
+\begin_layout Description
+Extra
+\begin_inset space ~
+\end_inset
+
+Arms
+\end_layout
+
+\begin_layout Description
+Fusion
+\begin_inset space ~
+\end_inset
+
+Battery
+\end_layout
+
+\begin_layout Description
+Gecko
+\begin_inset space ~
+\end_inset
+
+Pads
+\end_layout
+
+\begin_layout Description
+Gun
+\begin_inset space ~
+\end_inset
+
+Arm 
+\end_layout
+
+\begin_layout Description
+Hand
+\begin_inset space ~
+\end_inset
+
+Blades 
+\end_layout
+
+\begin_layout Description
+Hardened
+\begin_inset space ~
+\end_inset
+
+Software 
+\end_layout
+
+\begin_layout Description
+Hardpoints 
+\end_layout
+
+\begin_layout Description
+Heavy
+\begin_inset space ~
+\end_inset
+
+Lifter 
+\end_layout
+
+\begin_layout Description
+Language
+\begin_inset space ~
+\end_inset
+
+&
+\begin_inset space ~
+\end_inset
+
+Protocol 
+\end_layout
+
+\begin_layout Description
+Med-Kit 
+\end_layout
+
+\begin_layout Description
+Motion
+\begin_inset space ~
+\end_inset
+
+Tracker
+\end_layout
+
+\begin_layout Description
+Multi-Tool The robot contains a fully integrated multi-tool, allowing it
+ to use Science! programs (use the Omega Reticulan progression, 
+\emph on
+H&H 
+\emph default
+p.18).
+ Like an Omega Reticulan's, the robot's tool cannot be removed, and recharges
+ naturally via the robot's internal power system.
+\end_layout
+
+\begin_layout Description
+Navigation
+\begin_inset space ~
+\end_inset
+
+System 
+\end_layout
+
+\begin_layout Description
+Onboard
+\begin_inset space ~
+\end_inset
+
+SGU 
+\end_layout
+
+\begin_layout Description
+Org-Analyzer 
+\end_layout
+
+\begin_layout Description
+Oxygen
+\begin_inset space ~
+\end_inset
+
+Field
+\end_layout
+
+\begin_layout Description
+Personal
+\begin_inset space ~
+\end_inset
+
+Amplifier 
+\end_layout
+
+\begin_layout Description
+Portable
+\begin_inset space ~
+\end_inset
+
+Chemist 
+\end_layout
+
+\begin_layout Description
+Projectile
+\begin_inset space ~
+\end_inset
+
+Fist 
+\end_layout
+
+\begin_layout Description
+Pry-Jaws 
+\end_layout
+
+\begin_layout Description
+Salad
+\begin_inset space ~
+\end_inset
+
+Shooter The colloquial nickname for a device far more useful than its namesake,
+ the 
+\begin_inset Quotes eld
+\end_inset
+
+salad shooter
+\begin_inset Quotes erd
+\end_inset
+
+ is a multi-purpose kitchen utensil and biomass reprocessor, capable of
+ turning organic matter into tasty green 
+\begin_inset Quotes eld
+\end_inset
+
+salad
+\begin_inset Quotes erd
+\end_inset
+
+ in minutes.
+ Given 1lb.
+ of local flora or fauna, the salad shooter can process it into one meal's
+ worth of shaved nutrient brick, totally purified of local contaminants,
+ pathogens, or toxins.
+ It can also be used as a food processor, blender, and even heating element
+ for the purpose of cooking more familiar food.
+\end_layout
+
+\begin_layout Description
+Self-Destruct 
+\end_layout
+
+\begin_layout Description
+Spider
+\begin_inset space ~
+\end_inset
+
+Legs 
+\end_layout
+
+\begin_layout Description
+Tracked 
+\end_layout
+
+\begin_layout Description
+Universal
+\begin_inset space ~
+\end_inset
+
+Lockpick 
+\end_layout
+
+\begin_layout Description
+Vise
+\begin_inset space ~
+\end_inset
+
+Grips 
+\end_layout
+
+\begin_layout Description
+Wheeled
+\end_layout
+
+\begin_layout Section
+Robots and Healing
+\end_layout
+
+\begin_layout Standard
+As non-biological lifeforms constructed from various synthetic polymers
+ and aerospace allows, a robot cannot heal itself naturally, nor can it
+ be healed with standard medicinal substances and procedures.
+ Instead, the robot must be repaired in order to remove damage.
+ Field repair requires access to scrap parts and tools, and the robot cannot
+ operate on itself.
+ On a successful INT check, 1d6 damage can be repaired to the robot given
+ access to sufficient scrap.
+ 
+\end_layout
+
+\begin_layout Standard
+More thorough repairs can be had with access to replacement parts.
+ At a cost of 20cr.
+ per point of damage, the robot can be fully repaired to its maximum HP,
+ though if the damage is more than 50% of it's total hit points, the service
+ process will take at least 24 hours.
+\end_layout
+
+\begin_layout Standard
+Scientists and other users of Science programs can repair robots with their
+ multi-tool by learning one of the nano-repair programs indicated in 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:Nano-Repair"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Level
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Version #
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+Damage Healed
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1d6 Damage +1 per 3 levels
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2d6 Damage +1 per 2 levels
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\emph on
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.2a
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3d6 Damage +1 per level
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Nano-Repair
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Nano-Repair"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+If a robot is reduced to 0 HP or below, it is immediately disabled and will
+ shut down.
+ It's programming will remain intact however, and the robot itself can be
+ repaired, so long as it is not reduced to fewer than -10 HP.
+\end_layout
+
+\begin_layout Section
+Equipping the Robot
+\end_layout
+
+\begin_layout Standard
+Robots are assumed to be equipped as normal by their crew with the usual
+ value in credits (3d6x100), and may conveniently store up to 1/4 of their
+ normal carrying weight within compartments built into their chassis.
+ Robots can also be equipped with additional upgrades provided they have
+ adequate credits.
+\end_layout
+
+\end_body
+\end_document
